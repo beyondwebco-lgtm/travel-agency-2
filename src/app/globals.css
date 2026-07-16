@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0F4C81;
+  --color-accent: #FF9F1C;
+  --color-success: #2A9D8F;
+  --color-bg-custom: #FAFAF8;
+  --color-dark: #1E293B;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  --animate-fade-up: fade-up 0.6s ease-out forwards;
+  --animate-float: float 6s ease-in-out infinite;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+:root {
+  --background: #FAFAF8;
+  --foreground: #1E293B;
+  --primary: #0F4C81;
+  --accent: #FF9F1C;
+  --success: #2A9D8F;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAFAF8;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(15, 76, 129, 0.15);
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(15, 76, 129, 0.3);
+}
+
+/* Hide scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Premium Solid UI helper classes */
+.solid-nav {
+  background-color: #FAFAF8;
+  border-bottom: 1px solid rgba(15, 76, 129, 0.08);
+}
+
+.premium-card {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(15, 76, 129, 0.06);
+  box-shadow: 0 4px 24px 0 rgba(15, 76, 129, 0.02);
+}
+
+.premium-card-dark {
+  background-color: #1E293B;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+}
+
+.premium-input {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(15, 76, 129, 0.12);
+  transition: all 0.3s ease;
+}
+
+.premium-input:focus {
+  background-color: #FFFFFF;
+  border-color: #0F4C81;
+  box-shadow: 0 0 0 2px rgba(15, 76, 129, 0.1);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #0F4C81 0%, #1E293B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-accent {
+  background: linear-gradient(135deg, #FF9F1C 0%, #FFB703 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
