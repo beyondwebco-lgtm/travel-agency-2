@@ -40,7 +40,7 @@ export default function Hero({ onExplorePackages, onCustomizeTrip }: HeroProps) 
           initial={{ scale: 1.15 }}
           animate={{ scale: 1 }}
           transition={{ duration: 10, ease: "easeOut" }}
-          src="https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1920&q=85"
+          src="/images/kashmir.jpg"
           alt="Mighty Indian Himalayas covered in snow"
           className="w-full h-full object-cover object-center opacity-85"
         />

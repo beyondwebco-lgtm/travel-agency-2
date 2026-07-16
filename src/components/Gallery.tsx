@@ -20,7 +20,7 @@ export default function Gallery() {
       id: 1,
       title: "Serene Dal Lake Shikara",
       location: "Srinagar, Kashmir",
-      image: "https://images.unsplash.com/photo-1566228015668-4c45dbc4e2f5?auto=format&fit=crop&w=800&q=80",
+      image: "/images/kashmir.jpg",
       aspectRatio: "h-72",
     },
     {
@@ -34,14 +34,14 @@ export default function Gallery() {
       id: 3,
       title: "Misty Munnar Tea Estates",
       location: "Munnar, Kerala",
-      image: "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=800&q=80",
+      image: "/images/munnar.jpg",
       aspectRatio: "h-80",
     },
     {
       id: 4,
       title: "High Passes of Pangong",
       location: "Leh Ladakh, Jammu & Kashmir",
-      image: "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=800&q=80",
+      image: "/images/ladakh.jpg",
       aspectRatio: "h-96",
     },
     {
@@ -83,14 +83,14 @@ export default function Gallery() {
       id: 10,
       title: "Lush Valleys of Coorg",
       location: "Madikeri, Karnataka",
-      image: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=800&q=80",
+      image: "/images/coorg.jpg",
       aspectRatio: "h-96",
     },
     {
       id: 11,
       title: "Radhanagar Beach Shores",
       location: "Havelock Island, Andaman",
-      image: "https://images.unsplash.com/photo-1589136777351-fdc9c9400c73?auto=format&fit=crop&w=800&q=80",
+      image: "/images/andaman.jpg",
       aspectRatio: "h-72",
     },
     {
