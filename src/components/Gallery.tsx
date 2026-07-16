@@ -62,7 +62,7 @@ export default function Gallery() {
       id: 7,
       title: "The Holy Ganga Aarti",
       location: "Varanasi, Uttar Pradesh",
-      image: "https://images.unsplash.com/photo-1561361062-856753549c46?auto=format&fit=crop&w=800&q=80",
+      image: "/images/ganga-aarti.jpg",
       aspectRatio: "h-96",
     },
     {

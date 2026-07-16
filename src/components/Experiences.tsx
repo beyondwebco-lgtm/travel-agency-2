@@ -54,7 +54,7 @@ export default function Experiences() {
     {
       id: "pilgrimage",
       name: "Pilgrimage & Sacred",
-      image: "https://images.unsplash.com/photo-1604999333679-b86d54738315?auto=format&fit=crop&w=600&q=80",
+      image: "/images/ganga-aarti.jpg",
       subtext: "Varanasi ghats, spiritual temples, and absolute peace.",
     },
     {
