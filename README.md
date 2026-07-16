@@ -1,7 +1,7 @@
-# 🏔️ Aarohan Travels — Premium Domestic India Journeys
+# 🏔️ Voyara — Premium Domestic India Journeys
 > **"Every Journey, Beautifully Planned."**
 
-Aarohan Travels is a premium, modern travel agency website designed for a luxury travel brand based in **Jubilee Hills, Hyderabad, Telangana**. The platform is curated exclusively for domestic Indian travel, featuring a minimalist, high-end design inspired by Apple-level minimalism and luxury hospitality brands (like Airbnb Luxe and Aman Resorts).
+Voyara is a premium, modern travel agency website designed for a luxury travel brand based in **Jubilee Hills, Hyderabad, Telangana**. The platform is curated exclusively for domestic Indian travel, featuring a minimalist, high-end design inspired by Apple-level minimalism and luxury hospitality brands (like Airbnb Luxe and Aman Resorts).
 
 ---
 
@@ -92,14 +92,14 @@ The interface is built to deliver a premium visual hierarchy with immersive imag
 
 ### 11. Contact & Map Section
 - Hyperlocal information for the head office in **Jubilee Hills, Hyderabad, Telangana**.
-- Integrated contact forms, contact details (+91 91000 45678, hello@aarohantravels.in), and responsive map placeholders.
+- Integrated contact forms, contact details (+91 91000 45678, hello@voyara.in), and responsive map placeholders.
 - A floating WhatsApp button for instant support.
 
 ---
 
 ## ⚡ Setup & Local Development
 
-To run Aarohan Travels locally:
+To run Voyara locally:
 
 1. **Install dependencies**:
    ```bash

@@ -24,7 +24,7 @@ export default function Testimonials() {
       name: "Siddharth Rao",
       city: "Hyderabad",
       rating: 5,
-      review: "Aarohan Travels planned our family honeymoon to Kashmir. The arrangements in Gulmarg were absolute luxury! Having a private cab waiting at the airport and handpicked hotels with direct snow views made it magical.",
+      review: "Voyara planned our family honeymoon to Kashmir. The arrangements in Gulmarg were absolute luxury! Having a private cab waiting at the airport and handpicked hotels with direct snow views made it magical.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
     },
     {
@@ -48,7 +48,7 @@ export default function Testimonials() {
       name: "Ananya Iyer",
       city: "Chennai",
       rating: 5,
-      review: "Being a solo female traveler, safety was my biggest concern. Aarohan Travels curated a customized Kerala backwaters itinerary with verified private guides. I had a phenomenal, peaceful, and super safe trip.",
+      review: "Being a solo female traveler, safety was my biggest concern. Voyara curated a customized Kerala backwaters itinerary with verified private guides. I had a phenomenal, peaceful, and super safe trip.",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&h=150&q=80",
     },
   ];

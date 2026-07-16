@@ -71,7 +71,7 @@ export default function Hero({ onExplorePackages, onCustomizeTrip }: HeroProps) 
           className="space-y-4"
         >
           <span className="text-accent font-sans text-xs md:text-sm font-bold tracking-[0.3em] uppercase block">
-            Aarohan Travels presents
+            Voyara presents
           </span>
           <h1 className="text-white font-heading font-extrabold text-4xl md:text-6xl lg:text-7xl leading-tight tracking-tight max-w-4xl mx-auto">
             Discover <span className="text-transparent bg-clip-text bg-gradient-to-r from-accent to-amber-300">Incredible India</span>

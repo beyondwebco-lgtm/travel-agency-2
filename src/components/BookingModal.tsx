@@ -93,7 +93,7 @@ export default function BookingModal({ isOpen, onClose, prefilledPackage }: Book
               >
                 <X className="h-4 w-4" />
               </button>
-              <span className="text-accent text-xs font-bold tracking-[0.25em] uppercase block mb-1">Aarohan Travels</span>
+              <span className="text-accent text-xs font-bold tracking-[0.25em] uppercase block mb-1">Voyara</span>
               <h3 className="font-heading font-extrabold text-2xl">Plan Your Incredible Journey</h3>
               <p className="text-slate-200 text-xs mt-1.5 leading-relaxed font-sans">
                 Tell us your travel details, and our local destination experts will design your personalized premium itinerary.
@@ -114,7 +114,7 @@ export default function BookingModal({ isOpen, onClose, prefilledPackage }: Book
                   </div>
                   <h4 className="font-heading font-bold text-2xl text-dark mb-3">Inquiry Received Successfully!</h4>
                   <p className="text-slate-500 font-sans text-sm max-w-sm leading-relaxed">
-                    Thank you, <span className="font-semibold text-primary">{formData.name}</span>. An Aarohan Travels planner is reviewing your request. We will contact you at <span className="font-semibold text-primary">{formData.phone}</span> within 2 hours.
+                    Thank you, <span className="font-semibold text-primary">{formData.name}</span>. A Voyara planner is reviewing your request. We will contact you at <span className="font-semibold text-primary">{formData.phone}</span> within 2 hours.
                   </p>
                   <span className="text-[10px] text-slate-400 mt-8 block">This window will close automatically...</span>
                 </motion.div>

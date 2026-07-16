@@ -78,7 +78,7 @@ export default function WhyChooseUs() {
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-20">
           <span className="text-primary font-sans text-xs md:text-sm font-bold tracking-[0.25em] uppercase block mb-3">
-            Why Aarohan Travels
+            Why Voyara
           </span>
           <h2 className="font-heading font-extrabold text-3xl md:text-4xl lg:text-5xl text-dark leading-tight">
             Crafting Safe, Luxurious <span className="text-primary">Memories</span>

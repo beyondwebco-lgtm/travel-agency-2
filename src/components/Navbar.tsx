@@ -51,7 +51,7 @@ export default function Navbar({ onPlanTripClick }: NavbarProps) {
             </div>
             <div>
               <span className={`font-heading font-bold text-xl tracking-wide transition-colors duration-300 ${isScrolled ? "text-primary" : "text-white"}`}>
-                AAROHAN
+                VOYARA
               </span>
               <span className={`block text-[9px] font-sans tracking-[0.25em] uppercase -mt-1 font-medium transition-colors duration-300 ${isScrolled ? "text-slate-500" : "text-slate-300"}`}>
                 Travels

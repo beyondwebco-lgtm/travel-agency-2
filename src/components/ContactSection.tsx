@@ -94,8 +94,8 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-sans font-bold text-xs uppercase tracking-wider text-slate-400">Email Address</h4>
-                  <a href="mailto:hello@aarohantravels.in" className="text-dark font-sans text-sm mt-1 hover:text-primary transition-colors block">
-                    hello@aarohantravels.in
+                  <a href="mailto:hello@voyara.in" className="text-dark font-sans text-sm mt-1 hover:text-primary transition-colors block">
+                    hello@voyara.in
                   </a>
                 </div>
               </div>

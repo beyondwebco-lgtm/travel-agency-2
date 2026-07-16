@@ -109,7 +109,7 @@ export default function Footer() {
               </div>
               <div>
                 <span className="font-heading font-bold text-xl tracking-wide text-white block">
-                  AAROHAN
+                  VOYARA
                 </span>
                 <span className="block text-[9px] font-sans tracking-[0.25em] uppercase -mt-1 font-medium text-slate-400">
                   Travels
@@ -185,7 +185,7 @@ export default function Footer() {
                 <span className="font-semibold text-slate-300">Phone:</span> +91 91000 45678
               </p>
               <p>
-                <span className="font-semibold text-slate-300">Email:</span> hello@aarohantravels.in
+                <span className="font-semibold text-slate-300">Email:</span> hello@voyara.in
               </p>
             </div>
           </div>
@@ -194,7 +194,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="flex flex-col sm:flex-row items-center justify-between pt-8 text-xs font-sans text-slate-500 gap-4">
-          <p>© 2026 Aarohan Travels. All Rights Reserved. Designed for domestic Indian excellence.</p>
+          <p>© 2026 Voyara. All Rights Reserved. Designed for domestic Indian excellence.</p>
           
           <div className="flex flex-wrap gap-x-6 gap-y-2">
             {policyLinks.map((link) => (

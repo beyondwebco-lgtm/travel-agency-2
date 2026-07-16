@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 export default function WhatsAppButton() {
   const [showTooltip, setShowTooltip] = useState(false);
 
-  const whatsappUrl = "https://wa.me/919100045678?text=Hello%20Aarohan%20Travels%2C%20I%20am%20interested%20in%20planning%20an%20Indian%20holiday.%20Please%20connect%20me%20with%20a%20planner!";
+  const whatsappUrl = "https://wa.me/919100045678?text=Hello%20Voyara%2C%20I%20am%20interested%20in%20planning%20an%20Indian%20holiday.%20Please%20connect%20me%20with%20a%20planner!";
 
   return (
     <div className="fixed bottom-6 right-6 z-40 flex items-center gap-3">

@@ -15,8 +15,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Aarohan Travels | Every Journey, Beautifully Planned",
-  description: "Discover Incredible India with Aarohan Travels. Curated premium domestic tours from Jubilee Hills, Hyderabad across India's most breathtaking destinations.",
+  title: "Voyara | Every Journey, Beautifully Planned",
+  description: "Discover Incredible India with Voyara. Curated premium domestic tours from Jubilee Hills, Hyderabad across India's most breathtaking destinations.",
 };
 
 export default function RootLayout({
